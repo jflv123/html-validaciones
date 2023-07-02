@@ -1,0 +1,23 @@
+regex password
+https://regexlib.com/Search.aspx?k=password&AspxAutoDetectCookieSupport=1
+https://stackoverflow.com/questions/19605150/regex-for-password-must-contain-at-least-eight-characters-at-least-one-number-a
+
+Para arreglar el codigo de validacion de la funcion pattern del campo password
+http://w3.unpocodetodo.info/utiles/regex-ejemplos.php?type=psw
+
+JavaScript Date getUTCFullYear()
+https://www.w3schools.com/jsref/jsref_getutcfullyear.asp
+
+HTMLObjectElement: setCustomValidity() method
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLObjectElement/setCustomValidity
+
+Existen diversas reglas para la escritura de una regex. Por eso, el entendimiento de cada una de ellas exige mucha atención. Una herramienta que recomiendo bastante para entrenar la escrita de regex es la página
+Esta página nos regala una tabla con ejemplos, un cheatsheet con algunas reglas y también un validador explicando todo lo que está pasando durante la escritura.
+https://regexr.com/
+
+equivalente a la extension live server, si en caso no se utiliza visual studio code
+https://browsersync.io/
+
+Aquí encontrarás los accesos directos a las plataformas que utilizaremos en esta sección:
+https://vercel.com/
+https://pages.github.com/
